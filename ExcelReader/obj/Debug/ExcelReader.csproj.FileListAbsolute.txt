@@ -1,0 +1,36 @@
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe.config
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.exe
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\ExcelReader.pdb
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csprojResolveAssemblyReference.cache
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Form1.resources
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.Properties.Resources.resources
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.csproj.GenerateResource.Cache
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.exe
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\obj\Debug\ExcelReader.pdb
+c:\users\stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\Excel.dll
+C:\Users\Stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\NPOI.dll
+C:\Users\Stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\NPOI.OOXML.dll
+C:\Users\Stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Stefan\documents\visual studio 2015\Projects\ExcelReader\ExcelReader\bin\Debug\ICSharpCode.SharpZipLib.xml
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\ExcelReader.exe.config
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\obj\Debug\ExcelReader.exe
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\obj\Debug\ExcelReader.pdb
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\obj\Debug\ExcelReader.csprojResolveAssemblyReference.cache
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\obj\Debug\ExcelReader.Form1.resources
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\obj\Debug\ExcelReader.Properties.Resources.resources
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\obj\Debug\ExcelReader.csproj.GenerateResource.Cache
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\ExcelReader.exe
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\ExcelReader.pdb
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\Excel.dll
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\ICSharpCode.SharpZipLib.dll
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\NPOI.dll
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\NPOI.OOXML.dll
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\NPOI.OpenXml4Net.dll
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\NPOI.OpenXmlFormats.dll
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Stefan\Documents\Visual Studio 2015\Projects\ExcelReader - Copy\ExcelReader\bin\Debug\ICSharpCode.SharpZipLib.xml
